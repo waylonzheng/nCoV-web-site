@@ -1,4 +1,4 @@
-# nCoV-web-site-
+# nCoV-web-site
 学校网站设计大赛的一等奖作品
 
 技术栈：
